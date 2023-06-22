@@ -1,0 +1,12 @@
+[
+    {
+    "Nome": "Wesley",
+    "Idade": 35,
+    "Trabalhando": true,
+    "Detalhes_da_profissão":{
+        "Empresa":"Unip",
+        "Função":"Tecnico de Lab. de Eng."
+    },
+    "Hobbies": ["Video Game", "Programar", "Estudar"]
+    }
+]
